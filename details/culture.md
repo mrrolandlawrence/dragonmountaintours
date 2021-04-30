@@ -1,0 +1,6 @@
+---
+
+
+---
+
+# something about tribal life
