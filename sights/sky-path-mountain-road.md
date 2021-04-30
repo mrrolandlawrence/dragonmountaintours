@@ -1,4 +1,5 @@
 ---
+title: Sky Path Mountain Road
 tags: motorbike-tour, ha-giang, viewpoint
 
 ---

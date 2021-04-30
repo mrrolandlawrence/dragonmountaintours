@@ -1,6 +1,6 @@
 ---
 title: Ha Giang Scenic Adventure
-tags: 
+tags: trekking, sky-path, local-markets, hmong-palace
 ---
 
 # Ha Giang

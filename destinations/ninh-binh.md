@@ -1,6 +1,6 @@
 ---
 title: Ninh Binh Spiritual Journey
-tags: ninh-binh, thousand-steps
+tags: ninh-binh, thousand-steps, cuc-phong-national-park, ngo-dong-river, tam-coc
 ---
 
 # Ninh Binh

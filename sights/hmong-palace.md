@@ -1,4 +1,5 @@
 ---
+title: Hmong King Palace
 tags: hmong, palace
 
 ---

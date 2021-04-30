@@ -1,4 +1,5 @@
 ---
+title: Traditional Homestays
 tags: homestay, sapa, ninh-binh, ha-giang
 ---
 

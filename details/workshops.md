@@ -1,4 +1,5 @@
 ---
+title: Workshops
 tags: hmong-cooking, hmong-batik, sapa
 ---
 

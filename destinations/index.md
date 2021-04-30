@@ -1,5 +1,5 @@
 ---
-tags: ha-giang, sapa, ninh-binh
+tags: ha-giang, sapa, ninh-binh, mai-chau
 ---
 
 

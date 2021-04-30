@@ -1,4 +1,5 @@
 ---
+title: Frequently Asked Questions
 tags: covid, flights, trains, buses, vegan-option, cancellations
 ---
 

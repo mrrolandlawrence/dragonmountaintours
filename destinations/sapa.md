@@ -1,6 +1,6 @@
 ---
 title: Sapa Trekking - Muong Hoa Valley
-tags: sapa, muong-hoa-valley, ta-van, rice-terraces, hmong, fansipan-mountain, batik
+tags: sapa, muong-hoa-valley, ta-van, cat-cat, rice-terraces, hmong-tribe, fansipan-mountain, cable-car, batik-textiles
 
 ---
 
