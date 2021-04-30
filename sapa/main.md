@@ -1,1 +1,0 @@
-main blurb for sapa
