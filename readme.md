@@ -1,4 +1,28 @@
 # dragon mountain tours
-Zen's website with tour descriptions
+
+destinations:
+=============
+
+- ninh binh
+- ha giang
+- sapa
+- mai chau
+
+
+sights:
+=======
+
+- too many to list
+
+
+details:
+========
+
+- culture
+- homestays
+- workshops
+- faq
+- my story
+
 
 written in markup
