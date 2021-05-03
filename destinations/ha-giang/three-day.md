@@ -2,7 +2,7 @@
 title: Trekking Tour - 3 Days
 tags: ban-gioc-waterfall, cao-bang, ha-giang, bebe-lake, bebe-national-park, puong-cave, nung-tribe, tay-tribe, nguom-ngao-cave, homestay
 cover-image: imagename (cover, card, thumb)
-tour-options:
+tour-options: car, fancy hotel
 ---
 
 
