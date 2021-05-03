@@ -1,5 +1,5 @@
 ---
-title: Bang Goic Waterfalls
+title: Ban Goic Waterfalls
 tags: waterfall, ha-giang, cao-bang, ngoum-ngao-caves, quay-son-river
 ---
 
