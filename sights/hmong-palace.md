@@ -1,6 +1,6 @@
 ---
-title: Hmong King Palace
-tags: hmong, palace
+title: Hmong Kings' Palace
+tags: hmong, kings-palace
 
 ---
 
