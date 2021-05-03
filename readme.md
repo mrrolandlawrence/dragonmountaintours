@@ -1,7 +1,6 @@
 # dragon mountain tours
 
-## destinations:
-=============
+### destinations:
 
 - ninh binh
 - ha giang
@@ -9,14 +8,12 @@
 - mai chau
 
 
-sights:
-=======
+### sights:
 
 - too many to list
 
 
-details:
-========
+### details:
 
 - culture
 - homestays
