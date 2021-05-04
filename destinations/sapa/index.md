@@ -23,11 +23,17 @@ We offer a number of tours in Sapa ranging from 1 to 4 days and with more hiking
 
 ## getting there
 
-## culture
+## activities
+
+main square with all the public events. also where all the restraunts are as well as where pickups are done. also hotels etc. 
 
 ## accomodation
 
 ## famous for making sapa tea
+
+https://unwindontheroad.wordpress.com/tag/yorkshire-tea/
+
+Ban Doi village, high north in Vietnam’s Sapa region, has been the cradle for local tea production for centuries. Prudent about their methods, visitors are able to join the local tea connoisseurs from harvesting to sipping a cup or two
 
 ## calendar - sapa events during the year... not to miss...
 

@@ -11,3 +11,4 @@ Ba Bể National Park is a reserve in Bắc Kạn Province, Northeast region of 
 
 ## features
 
+incorporate the lake details in here?

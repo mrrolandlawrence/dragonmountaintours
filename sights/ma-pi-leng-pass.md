@@ -12,3 +12,5 @@ Riding motorbike on Ma Pi Leng Pass will bring you exhilaration, that’s how be
 Tu San Canyon 
 
 The fullest beauty of Tu San Canyon can only be appreciated from Ma Pi Leng Pass from where you can see the full view of the green poetic Nho Que River running through the deepest chasm in not only Dong Van geopark but also in Vietnam and even Southeast Asia. The scenery is dramatic, abstract and just so beautiful, especially under the sunlight.
+
+ma pi leng pass is sky path bike ride?
